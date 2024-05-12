@@ -1,0 +1,128 @@
+[33mcommit 07dda3aebdcd520046114236cc2c64425b9f6849[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 19:34:27 2024 +0530
+
+    stash retrived
+
+[33mcommit 3def4db25b774e18c6872da56511fa0c7d4f0e29[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 17:45:00 2024 +0530
+
+    adding tag
+
+[33mcommit 8ed6a7b2caf6ef113a89c74fb7546a8bd919f18d[m[33m ([m[1;33mtag: [m[1;33mversion1[m[33m)[m
+Merge: 6b95242 42e53c8
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 15:31:56 2024 +0530
+
+    Merge branch 'feature'
+    
+    # Conflicts:
+    #       song.txt
+
+[33mcommit 42e53c8ab4850dde5a9b3229a037f0b8510d8fdd[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 15:29:59 2024 +0530
+
+    2 in feature
+
+[33mcommit 6b952422988066a42d48aa72ff4c75b9bc35cdb3[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 15:28:59 2024 +0530
+
+    1 main
+
+[33mcommit 9211ded655445971a20eddd9629b1dc9352a9d1e[m
+Merge: 439d952 2d4ca55
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 15:00:51 2024 +0530
+
+    Merge branch 'feature'
+
+[33mcommit 2d4ca5547a408c5e6ba45f0b1bb2d793c63f60a2[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 14:59:51 2024 +0530
+
+    commit changes
+
+[33mcommit 439d95227cb0ed70825f65a64b24294f469378d4[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 14:56:00 2024 +0530
+
+    master commit
+
+[33mcommit cbcaf36440a52e58dee82bb025c453e52dae7370[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 14:46:30 2024 +0530
+
+    branching more content
+
+[33mcommit 9ca5075ca3fa16cb39d590fdf7d2135035c35ce0[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 14:43:23 2024 +0530
+
+    branching content
+
+[33mcommit 16df8df6e0486b0a1b5f955083b23c29b0e1eb70[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 11:54:36 2024 +0530
+
+    Revert "revert option"
+    
+    This reverts commit 25b8c4306f086e75cc6456dc1f3c2692011e073b.
+
+[33mcommit 25b8c4306f086e75cc6456dc1f3c2692011e073b[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Sat May 11 11:52:25 2024 +0530
+
+    revert option
+
+[33mcommit 733cc94303bef0bc4979d60fcf042754995be341[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Thu May 9 21:30:28 2024 +0530
+
+    commit gui and push in git
+
+[33mcommit 9865db886fc8cab97eb7f3549eba2aebf375a65b[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Thu May 9 21:25:13 2024 +0530
+
+    testing unstaged
+
+[33mcommit 0f6207bbc4c8bcf9b7fe2c0ce41afc4dd2574111[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Thu May 9 21:22:47 2024 +0530
+
+    testing gui
+
+[33mcommit 6b1e98c78cc8b0066d937f6dab557a1c297363c0[m
+Author: Eswar <85291701+eswarmatta@users.noreply.github.com>
+Date:   Thu May 9 16:27:51 2024 +0530
+
+    testing line
+
+[33mcommit 4086253b032d38fbd73f42c04be6cbd3eb6b99a4[m
+Author: Eswar <85291701+eswarmatta@users.noreply.github.com>
+Date:   Thu May 9 16:23:24 2024 +0530
+
+    Update song.txt
+    
+    added 1 more line of song
+
+[33mcommit e34297b650abaea61fdb000c15fd24616c143cf4[m
+Author: Eswar <85291701+eswarmatta@users.noreply.github.com>
+Date:   Thu May 9 16:20:53 2024 +0530
+
+    Update song.txt
+
+[33mcommit dab08e8c458e0c8ce08113b81bb2ad5700c104ca[m
+Author: Eswar Matta <eswarmata08@gmail.com>
+Date:   Thu May 9 16:09:31 2024 +0530
+
+    added 1 line of song
+
+[33mcommit e3fdcb40f921321e10d510460b9357bf6fd310c6[m
+Author: Eswar <85291701+eswarmatta@users.noreply.github.com>
+Date:   Thu May 9 15:42:54 2024 +0530
+
+    Initial commit
